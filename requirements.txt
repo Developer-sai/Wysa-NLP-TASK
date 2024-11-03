@@ -1,0 +1,10 @@
+transformers
+torch
+Flask
+pandas
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+textblob
+googletrans==4.0.0-rc1
