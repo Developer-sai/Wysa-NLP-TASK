@@ -3,17 +3,6 @@
 Emotion and Product Target Detection in Tweets
 This project implements an NLP model to detect emotions in tweets and identify whether these emotions are directed toward specific products or brands. The solution includes data preprocessing, data augmentation, model training, and deployment as a web API using Flask and Docker, along with recommendations for monitoring metrics in a production environment.
 
-Table of Contents
-Problem Statement
-Solution Overview
-Project Structure
-Setup Instructions
-Data
-Usage
-Deployment
-Monitoring and Metrics
-Future Enhancements
-License
 Problem Statement
 The primary objective of this project is to develop a solution capable of identifying emotions within tweets and determining if these emotions are directed toward specific brands or products. The requirements include:
 
